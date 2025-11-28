@@ -4,6 +4,10 @@
 
 A Unity mobile game featuring a spinning wheel, revive mechanic, and a responsive UI that adapts to various screen aspect ratios.
 
+## Gameplay Demo
+
+<video src="https://drive.google.com/file/d/1Js1VhlWqF6Eqy1V1s5xLP81lyVPt9I0b/view?usp=sharing" controls width="720" height="480"></video>
+
 ## Responsive UI Screenshots
 
 The UI automatically adjusts to maintain visual integrity across diverse mobile device displays.
