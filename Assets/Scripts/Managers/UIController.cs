@@ -20,6 +20,10 @@ public class UIController : MonoBehaviour
     }
 #endif
 
+    private void Awake() {
+        Screen.orientation = ScreenOrientation.Portrait;
+    }
+
     private void OnEnable() {
         GameEvents.OnCoinBalanceChanged += UpdateCoinDisplay;
         GameEvents.OnSpinStarted += DisableSpinButton;
@@ -32,8 +36,7 @@ public class UIController : MonoBehaviour
         GameEvents.OnSpinCompleted -= EnableSpinButton;
     }
 
-    private void Start() {
-        Screen.orientation = ScreenOrientation.Portrait;
+    private void Start() {  
         UpdateCoinDisplay(ServiceLocator.Economy.CurrentBalance);
     }
 
