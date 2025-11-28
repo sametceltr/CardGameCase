@@ -4,13 +4,7 @@
 
 Link: https://drive.google.com/file/d/1Js1VhlWqF6Eqy1V1s5xLP81lyVPt9I0b/view?usp=sharing
 
-
-<video src="https://github.com/sametceltr/CardGameCase/raw/refs/heads/main/Assets/demo_video_small.mp4" 
-       width="800" 
-       controls="controls" 
-       loop 
-       muted>
-</video>
+https://github.com/user-attachments/assets/4f41e305-c942-491a-9751-a7fe4ab15fff
 
 ## Responsive UI Screenshots
 
